@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "async": "2.1.5",
-    "debug": "2.2.0",
+    "debug": "^2.6.9",
     "fs-extra": "^2.0.0",
     "https-proxy-agent": "^2.2.1",
     "mongodb-prebuilt": "git+https://github.com/t1bb4r/mongodb-prebuilt.git#master",
